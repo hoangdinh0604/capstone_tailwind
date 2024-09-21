@@ -25,3 +25,7 @@ tạo branch
 2. git checkout "tên branch"
 tổng hợp bước 1,2 
     git checkout -b "tên branch"
+
+1. Bài tập tạo và checkout branch mới
+2. Thay đổi code và push lên branch mới
+3. Tạo push request (PR) và merge
