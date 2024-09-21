@@ -11,3 +11,8 @@
 4.2 xác nhận file cần thêm và lý do thêm file (phải có ý nghĩa, đúng mục đích)
     git commit -m "lý do"
     git commit -m "create html and note"
+4.3 đẩy file từ local lên remote
+khi push lên branch nào đó lần đầu
+    git push - origin "tên branch"
+từ lần 2 trở đi
+    git push
